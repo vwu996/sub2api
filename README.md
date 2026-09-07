@@ -18,6 +18,9 @@ English | [中文](README_CN.md) | [日本語](README_JA.md)
 
 </div>
 
+> [!CAUTION]
+> **Deprecated and archived.** This project is no longer maintained or supported. Its hosted services are being shut down. Do not deploy it for new or production use; existing operators should export any required data and migrate away.
+
 ## ⚠️ Important Notice
 
 Please read the following carefully before using this project:
